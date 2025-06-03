@@ -83,7 +83,7 @@ Step 7: Stop the program.<br>
 
 ### Output/Plan:
 
-![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/3646541e-f73d-4122-84ee-0951ced0fcc3)
+<img width="484" alt="image" src="https://github.com/Vineesha29031970/AI_Lab_2023-24/assets/133136880/e3b16f73-b5f9-41b4-8e69-879f72ae377d">
 
 ### Result:
 Thus the plan was found for the initial and goal state of given problem.
